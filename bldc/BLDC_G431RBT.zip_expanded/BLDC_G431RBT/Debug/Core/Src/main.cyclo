@@ -1,0 +1,12 @@
+../Core/Src/main.c:57:6:SPIAdresHazirla	4
+../Core/Src/main.c:102:9:map	1
+../Core/Src/main.c:105:6:Read_ADC	2
+../Core/Src/main.c:117:5:main	9
+../Core/Src/main.c:236:6:SystemClock_Config	3
+../Core/Src/main.c:278:13:MX_ADC1_Init	4
+../Core/Src/main.c:335:13:MX_LPUART1_UART_Init	5
+../Core/Src/main.c:375:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:416:13:MX_SPI3_Init	2
+../Core/Src/main.c:449:13:MX_TIM1_Init	9
+../Core/Src/main.c:531:13:MX_GPIO_Init	1
+../Core/Src/main.c:571:6:Error_Handler	1
